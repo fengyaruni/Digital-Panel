@@ -1,0 +1,5 @@
+一、该程序依赖于vc_redist.x86.exe运行库，缺少运行库，该程序不能运行。
+vc_redist.x86.exe运行库在以下目录可以下载：
+https://github.com/fengyaruni/Digital-Panel
+
+二、请以管理员权限运行。
